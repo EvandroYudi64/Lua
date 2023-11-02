@@ -1,2 +1,2 @@
 # Lua
-Estudos em LUA
+algoritmos e problemas básicos em lua
